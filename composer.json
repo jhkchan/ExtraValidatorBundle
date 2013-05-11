@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "2.*",
+        "symfony/framework-bundle": "2.*"
     },
     "require-dev": {
         "makasim/temp-file": "dev-master"
