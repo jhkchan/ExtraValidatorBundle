@@ -1,5 +1,5 @@
 {
-    "name": "javiacei/extra-validator-bundle",
+    "name": "ideup/extra-validator-bundle",
     "description": "Symfony2 Validators for phones",
     "repositories":[
         {
@@ -14,7 +14,7 @@
         "makasim/temp-file": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Javiacei\\ExtraValidatorBundle": "" }
+        "psr-0": { "Ideup\\ExtraValidatorBundle": "" }
     },
-    "target-dir": "Javiacei/ExtraValidatorBundle"
+    "target-dir": "Ideup/ExtraValidatorBundle"
 }
