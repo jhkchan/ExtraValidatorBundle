@@ -1,0 +1,20 @@
+{
+    "name": "javiacei/extra-validator-bundle",
+    "description": "Symfony2 Validators for phones",
+    "repositories":[
+        {
+            "type":"git",
+            "url":"git://github.com/jhkchan/ExtraValidatorBundle.git"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "2.*",
+    },
+    "require-dev": {
+        "makasim/temp-file": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Javiacei\\ExtraValidatorBundle": "" }
+    },
+    "target-dir": "Javiacei/ExtraValidatorBundle"
+}
